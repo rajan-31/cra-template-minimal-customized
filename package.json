@@ -1,0 +1,26 @@
+{
+	"name": "cra-template-minimal-customized",
+	"version": "1.0.0",
+	"keywords": [
+		"react",
+		"create-react-app",
+		"template"
+	],
+	"description": "A minimal customized template for Create React App.",
+	"main": "template.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rajan-31/cra-template-minimal-customized"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=14"
+	},
+	"bugs": {
+		"url": "https://github.com/rajan-31/cra-template-minimal-customized/issues"
+	},
+	"files": [
+		"template",
+		"template.json"
+	]
+}
